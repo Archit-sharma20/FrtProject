@@ -1,5 +1,7 @@
 # FrtProject
 
+Github hosted Website Link - https://archit-sharma20.github.io/FrtProject/
+
 Azure static web app link - https://red-tree-01560db10.2.azurestaticapps.net
 
 Industry - LifeStyle
