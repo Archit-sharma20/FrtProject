@@ -33,3 +33,16 @@ Other Azure Technologies : App Service
 ![frt](https://user-images.githubusercontent.com/112549490/193465471-80d5f11c-e915-4d2f-8564-485edddf324c.png)
 
 
+<-----------------------------Succesfully deployed on azure website URL-------------------------->
+
+
+
+https://user-images.githubusercontent.com/112549490/193465595-cd6c2676-4960-4b11-8e32-417396033a6a.mp4
+
+
+
+
+
+
+
+
