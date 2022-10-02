@@ -25,7 +25,6 @@ Technologies with GitHub to complete this project.
 Primary Azure Technology : Static Web Apps , Static Web Apps 
 
 Other Azure Technologies : App Service
-![frt](https://us
 
 https://user-images.githubusercontent.com/112549490/193465099-21502723-1433-4987-acd8-ce4674e61468.mp4
 
